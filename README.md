@@ -1,2 +1,2 @@
-# cousera-test
+# WebDev
 Cousera test repository
